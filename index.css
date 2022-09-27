@@ -1,0 +1,72 @@
+body{
+    font-family: sans-serif;
+    background-color: #273549;
+    padding: 5% 5% 5% 10%;
+    margin: auto;
+    border: auto;
+    text-align: left;
+}
+#heading1{
+    color: white;
+    margin-bottom: 5px;
+    font-size: 9vw;
+}
+#heading2{
+    color:#4ADF86;
+    margin-top: 5px;
+    font-size: 9vw;
+    margin-bottom: 1px;
+}
+#caution{
+    margin-top: 2px;
+    color: #D5D4D8;
+    font-size: 4vw;
+}
+#generate-btn{
+    margin-left: 20px;
+    color: #D5D4D8;
+    border: none;
+    border-radius: 10px;
+    background-color: #10B981;
+    font-size: 4vw;
+    padding: 2% 2% 2% 2%;
+}
+#reset-btn{
+    margin-left: 50px;
+    color: #D5D4D8;
+    border: none;
+    border-radius: 10px;
+    background-color: #10B981;
+    font-size: 4vw;
+    padding: 2% 2% 2% 2%;
+}
+.container1{
+    margin-top: 50px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: left;
+}
+.container2{
+    margin-top: 50px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+#password1{
+    color: #5DEF92;
+    border: none;
+    border-radius: 10px;
+    background-color: #5e687d;
+    font-size: 4vw;
+    padding: 2% 2% 2% 2%;
+    margin-right: 25px;
+}
+#password2{
+    color: #5DEF92;
+    border: none;
+    border-radius: 10px;
+    background-color: #5e687d;
+    font-size: 4vw;
+    padding: 2% 2% 2% 2%;
+    margin-left: 25px;
+}
